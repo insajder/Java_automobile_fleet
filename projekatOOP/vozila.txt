@@ -1,0 +1,11 @@
+BG23OD~Kamion~Volvo FM9~200.0~10.0~30.0
+BG345LK~Kamion~MAN~13984.0~21.9~35.0
+BG999HJ~Kamion~Renault 220~12749.0~26.8~46.0
+BG343IJ~Autobus~Mercedes Benz 818~10995.0~19.8~30
+NS2345OP~Autobus~King Long~10984.0~11.9~40
+NS0909NS~Autobus~Iveco~10749.0~16.8~50
+BG1972DK~Automobil~Peugeot 208~50.0~5.2~hatchback
+BG1000CC~Automobil~Renault Clio~45.0~4.2~hatchback
+NI1410NI~Automobil~BMW X1~1995.0~9.8~SUV
+SD2323IU~Automobil~Audi A4~1984.0~10.9~karavan
+BG887HF~Automobil~Alfa Romeo 155~1749.0~11.8~kupe
